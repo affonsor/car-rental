@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8273B788-EDE3-46E0-878A-F13134D40825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Domain", "src\CarRental.Domain\CarRental.Domain.csproj", "{FEDCDF6B-66F6-40A9-8E6A-8222B86B1D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FEDCDF6B-66F6-40A9-8E6A-8222B86B1D42} = {8273B788-EDE3-46E0-878A-F13134D40825}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDCDF6B-66F6-40A9-8E6A-8222B86B1D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDCDF6B-66F6-40A9-8E6A-8222B86B1D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDCDF6B-66F6-40A9-8E6A-8222B86B1D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDCDF6B-66F6-40A9-8E6A-8222B86B1D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
